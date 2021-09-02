@@ -1,5 +1,6 @@
-Hi there 👋, welcome to my profile.
- I'm Parvez, a Full Stack Web Application Developer.
+
+###Hi there 👋, welcome to my profile.
+ ##I'm Parvez, a Full Stack Web Application Developer.
 
 Skills: 
 ✔HTML / CSS / SASS 
